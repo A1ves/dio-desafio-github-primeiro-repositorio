@@ -1,1 +1,11 @@
 Link para download do Git: https://git-scm.com/downloads
+
+git clone LINK (Baixar os arquivos)
+
+git add . (Adicionando todas as alterações)
+
+git commit -m "Inclusão anotações do curso de Git/Github" (Comentando as alterações)
+
+git push origin main (Enviando tudo para nuvem)
+
+git commit --amend -m "Inclusão anotações do curso de Git/Github" (Ajustar o ultimo commit)
