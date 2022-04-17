@@ -1,0 +1,8 @@
+Semântica PT-1
+
+<section> - Seção genérica de conteúdos, como lista de artigos.
+<header> - Cabeçalho da página ou de uma parte, Ex: De uma (section).
+<article> - Conteúdo relevante como artigo de um blog.
+<aside> - Conteúdo relacionado ao conteúdo principal da página, links, biografia.
+<footer> - Rodapé da pagina ou de parte. Ex: (article ou de section).
+<h1>-<h6> - Títulos.
